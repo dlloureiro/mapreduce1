@@ -1,105 +1,21 @@
 RESULTADO DA EXECUCION DO COMANDO NO HADOOP
 
-Colorado Springs        10061105.87
-Santa Ana       10050309.93
-Chula Vista     9974951.34
-Henderson       10053416.05
-Fort Wayne      10132594.02
-Riverside       10006695.42
-Anaheim 10076416.36
-Laredo  10144604.98
-Birmingham      10076606.52
-Corpus Christi  9976522.77
-Philadelphia    10190080.26
-Mesa    10053642.6
-Pittsburgh      10090124.82
-Madison 10032035.54
-Chesapeake      10038504.92
-Cincinnati      10139505.74
-Columbus        10035241.03
-Nashville       9961450.51
-North Las Vegas 10029652.51
-Winston–Salem   10044011.83
-Boise   10039166.74
-Kansas City     9968118.73
-Los Angeles     10084576.8
-Oklahoma City   10118986.25
-Phoenix 10079076.7
-Sacramento      10123468.18
-Spokane 10083362.98
-Stockton        10006412.64
-Wichita 10083643.21
-Hialeah 10047052.76
-Lexington       10084510.95
-Buffalo 10001941.19
-Dallas  10066548.45
-Fremont 10053242.36
-Jacksonville    10072003.33
-New York        10085293.55
-Rochester       10067606.92
-Albuquerque     10052311.42
-Aurora  9992970.92
-Raleigh 10061442.54
-Tucson  9998252.47
-Washington      10139363.39
-Garland 10071043.92
-Oakland 9947292.52
-Durham  10153890.21
-Irvine  10084867.45
-Cleveland       10067835.84
-Plano   10046103.61
-Reno    10079955.16
-Richmond        9992941.59
-Baltimore       10096521.45
-Irving  10133944.08
-Denver  10031534.87
-Las Vegas       10054257.98
-San Diego       9966038.39
-San Jose        9936721.41
-St. Louis       10002105.14
-Tulsa   10064955.9
-Anchorage       9933500.4
-Baton Rouge     10131273.23
-New Orleans     9949257.75
-Austin  10057158.9
-Newark  10144052.8
-San Antonio     10014441.7
-Scottsdale      10037929.85
-Houston 10042106.27
-Lubbock 9958119.15
-Portland        10007635.77
-Lincoln 10069485.4
-Minneapolis     10011757.78
-Bakersfield     10031208.92
-Milwaukee       10064482.65
-San Francisco   9995570.54
-Long Beach      10006380.25
-Miami   9947316.07
-Orlando 10074922.52
-Tampa   10106428.55
-Toledo  10020768.88
-Atlanta 9997146.7
-St. Petersburg  9986495.54
-El Paso 10016409.97
-Glendale        10044493.97
-Memphis 10038565.32
-Louisville      10008566.47
-San Bernardino  9965152.04
-Seattle 9936267.37
-Chandler        9919559.86
-Norfolk 10088563.17
-Saint Paul      10057233.57
-Chicago 10062522.07
-Virginia Beach  10086553.5
-Detroit 9979260.76
-Fort Worth      10120830.65
-Jersey City     9920141.87
-Arlington       10072207.97
-Charlotte       10112531.34
-Greensboro      10033781.39
-Honolulu        10006273.49
-Omaha   10026642.34
-Fresno  9976260.26
-Boston  10039473.28
-Gilbert 10062115.19
-Indianapolis    10090272.77
+DVDs    57649212.14
+Crafts  57418154.5
+Music   57495489.7
+Sporting Goods  57599085.89
+Toys    57463477.11
+Computers       57315406.32
+Men's Clothing  57621279.04
+Health and Beauty       57481589.56
+Cameras 57299046.64
+CDs     57410753.04
+Garden  57539833.11
+Baby    57491808.44
+Books   57450757.91
+Children's Clothing     57624820.94
+Women's Clothing        57434448.97
+Video Games     57513165.58
+Consumer Electronics    57452374.13
+Pet Supplies    57197250.24
+
